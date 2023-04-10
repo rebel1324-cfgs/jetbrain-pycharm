@@ -25,6 +25,12 @@
       <shortcut-conflict owner="vim">
         <text encoding="base64">bWV0YSBwcmVzc2VkIEo=</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">bWV0YSBwcmVzc2VkIEw=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">bWV0YSBwcmVzc2VkIEs=</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimSettings">
